@@ -36,9 +36,6 @@ This project uses a **fully connected GAN** architecture:
 > 🧱 Below is a 3D visual representation of the GAN architecture used in this project:
 ![ChatGPT Image Jun 29, 2025, 01_06_50 AM](https://github.com/user-attachments/assets/86d24f56-ae12-4d36-83d2-9a389e9025b2)
 
-<p align="center">
-  <img src="assets/gan_architecture_3d.png" width="300"/>
-</p>
 
 ## 🏋️ Training Details
 
@@ -56,6 +53,4 @@ The Generator is trained to minimize the difference between generated and clean 
 
 ![image_2025-06-29_00-54-50](https://github.com/user-attachments/assets/03e82e65-e0d9-4a97-9587-9206c80063c7)
 
-<p align="center">
-  <img src="assets/gan_architecture_3d.png" width="300"/>
-</p>
+
